@@ -1,6 +1,9 @@
-# SalsaQc
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
+
+# System prerequisites
+
+Angular requires an active LTS version of Node.js: https://nodejs.org/en/download/ <br />
+In general, Angular applications depend on npm packages for many features and functions. Since Node.js already comes with NPM (CLI) client installed by default, no further action is needed. 
 
 ## Setup
 
